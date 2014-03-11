@@ -1,0 +1,16 @@
+{
+  "name": "string-to-js-brunch",
+  "version": "0.0.1",
+  "description": "Adds HTML Template support to brunch.",
+  "author": "Kevin Thompson",
+  "homepage": "https://github.com/kthompson/string-to-js-brunch",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kthompson/string-to-js-brunch.git"
+  },
+  "main": "./index",
+  "dependencies": {
+    "string-to-js": "0.0.1",
+    "coffee-script": "~1.7.1"
+  }
+}
